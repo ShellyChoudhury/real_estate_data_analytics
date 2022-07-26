@@ -1,2 +1,9 @@
 # real_estate_data_analytics
-The project analyses real estate data of USA states
+Interpreting  the given data to show the following scenario using Python.
+
+1.	Total Sale per Quarter of the Real Estate
+2.	Average Sale price per Area of  the Real Estate
+3.	Which month has the biggest Sale
+
+using vertical Bar Chart in python
+
