@@ -1,4 +1,4 @@
-# Real Estate Sales data Analysis using Python(Numpy,pandas, Matplotlib)
+# Real Estate Sales data Analysis using Python(Numpy,pandas, Matplotlib,Plotly)
 The data contains  City of Hardford Real Estae Sales data over the periods of 2 years.It has 4,088 rows and 21 columns.The visualzation plots using vertical bar charts and analysis had been conducted on thefollowing areas.
 
 1.	Total Sale per Quarter of the Real Estate
@@ -22,7 +22,17 @@ The data contains  City of Hardford Real Estae Sales data over the periods of 2 
 ![output_0_0](https://user-images.githubusercontent.com/107675917/195333353-dd825248-41d6-4d06-b9e9-330024885df5.png)
 ![output_0_0](https://user-images.githubusercontent.com/107675917/195333546-414d1a01-5bce-4e67-8179-262e23ef5ca3.png)
 
-## Total Sales on the 4th Quarter of real estate for 2018,2019nand 2020
+## Total Sales on the 4th Quarter of real estate for 2018,2019 and 2020
+
+![output_0_0](https://user-images.githubusercontent.com/107675917/195338574-3220d30d-37af-4883-8b99-1eee1277febe.png)
+![output_0_0](https://user-images.githubusercontent.com/107675917/195338743-4e7b4369-272e-4613-be83-56ac4f880e7b.png)
+![output_0_0](https://user-images.githubusercontent.com/107675917/195338870-593ad1c8-b535-48ac-a428-6cf33a88faf2.png)
+
+## average sales per Area of the real Estate
+![newplot](https://user-images.githubusercontent.com/107675917/195340372-6abdea37-f367-4d74-890f-d962be4d1040.png)
+
+## Months having the Biggest Sales of the real Esate
+![newplot (1)](https://user-images.githubusercontent.com/107675917/195340629-f67e3c86-3b4e-4dd8-beb0-2a358ee08a59.png)
 
 
 
