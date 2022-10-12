@@ -31,7 +31,7 @@ The data contains  City of Hardford Real Estae Sales data over the periods of 2 
 ## average sales per Area of the real Estate
 ![newplot](https://user-images.githubusercontent.com/107675917/195340372-6abdea37-f367-4d74-890f-d962be4d1040.png)
 
-## Months having the Biggest Sales of the real Esate
+## Month having the Biggest Sales of the real Esate
 ![newplot (1)](https://user-images.githubusercontent.com/107675917/195340629-f67e3c86-3b4e-4dd8-beb0-2a358ee08a59.png)
 
 
